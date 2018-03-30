@@ -1,0 +1,4 @@
+numpy read data and return matrix
+1993,caishuwei,001
+1999,chengdandan,002
+2333,CCV,003
